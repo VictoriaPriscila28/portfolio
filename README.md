@@ -1,9 +1,6 @@
-# Screenshots
-<p float="middle">
-  <img src="https://raw.githubusercontent.com/crearo/portfolio/master/screenshots/home.png" width="400">
-  <img src="https://raw.githubusercontent.com/crearo/portfolio/master/screenshots/projects.png" width="400">
-  <img src="https://raw.githubusercontent.com/crearo/portfolio/master/screenshots/timeline.png" width="400">
-</p>
+# Hello I'm Victória 
+#### Well, I gonna use this repository as my personal portfolio, and hope to update as soon as I can.
+#### This is my second project using Flask, and I hope to do it better !!
 
 # Technology
 
